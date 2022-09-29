@@ -110,7 +110,11 @@ Hey, My Name is Pranav Sakariya,I am a Tech Enthusiast. Looking forward to learn
 </p>
 </h1>
 
-<div align = "center">
-    ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav687&show_icons=true&theme=radical)
+![Nisarg's Github Status](https://github-readme-stats.vercel.app/api?username=pranav687&theme=nightowl&show_icons=true)
+
+<hr>
+
+    ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=pranav687&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+</div>
 
 <h3>Thanks for Stopping by!! 😊</h3>
