@@ -108,11 +108,7 @@ Hey, My Name is Pranav Sakariya,I am a Tech Enthusiast. Looking forward to learn
   <br/>
   
 </p>
-</h1>
 
-![Pranav's Github Status](https://github-readme-stats.vercel.app/api?username=pranav687&theme=nightowl&show_icons=true)
-
-<hr>
 
 </div>
 
